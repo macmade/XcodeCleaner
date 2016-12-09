@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: XcodeCleaner.xcodeproj
+xcode_scheme: XcodeCleaner
+
